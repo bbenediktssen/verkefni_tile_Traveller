@@ -1,5 +1,8 @@
 #Notast við x & y ás, og plúsa alltaf við x eða y ásinn eftir áttum. Finna út hvar manneskjan er í hverju sinni og skrifa inn hvaða áttir hún getur farið í
 '''
+Leikurinn virkar eins og völundarhús. Leikmaður byrjar í reit 1,1 og á að komast á reit 3,1 með því að fara "North, south, east, west" eftir
+upplýsingum sem eru gefnar upp á skjánum. Þegar leikmaður hefur komist á reit 3,1 fær hann skilaboð um að hann hefur unnið leikinn.
+https://github.com/bbenediktssen/verkefni_tile_Traveller/blob/master/tileTraveller.py
 '''
 
 x = 1
